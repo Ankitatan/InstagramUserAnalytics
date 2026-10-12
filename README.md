@@ -20,7 +20,6 @@ The project focuses on using SQL queries to analyze user-related data, identify 
 - **Database Management System** — used to create and query the project database
 - **Microsoft PowerPoint** — presentation of marketing campaign insights
 
-*Update this section with the exact database software and additional tools used in your project.*
 
 ## Project Files
 
